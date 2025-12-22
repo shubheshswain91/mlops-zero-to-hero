@@ -126,3 +126,6 @@ Fix problems before deployment
 
 Avoid broken models reaching production
 
+
+![alt text](image-1.png)
+
