@@ -1,5 +1,7 @@
 # How MLOps Engineers Help Data Scientists
 
+![alt text](image.png)
+
 Before automation, Data Scientists usually train models by:
 
 Running scripts manually
